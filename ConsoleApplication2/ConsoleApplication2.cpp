@@ -1,8 +1,3 @@
-﻿mkdir cpp - calculator
-cd cpp - calculator
-git init
-git remote add origin https ://github.com/NameLess491/cpp-calculator.git
-
 #include <iostream>
 using namespace std;
 
@@ -38,6 +33,3 @@ int main() {
 
     return 0;
 }
-git add main.cpp
-git commit - m "Initial commit: added simple calculator"
-git push - u origin master
